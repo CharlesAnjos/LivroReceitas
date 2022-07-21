@@ -1,6 +1,6 @@
-# Strogonoff de Frango 
+# Strogonoff de Frango                
 
-### Ingredientes
+## Ingredientes
 
 - 1 quilo de peito de frango sem pele
 - 1 tablete de caldo de galinha
@@ -12,7 +12,7 @@
 - Champignon
 - Batata Palha e Arroz 
 
-### Modo de Preparo
+## Modo de Preparo
 
 - Passo 1
 - Passo 2
